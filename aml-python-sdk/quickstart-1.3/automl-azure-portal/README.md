@@ -1,4 +1,5 @@
-# Prerequisites
+# Part 1: Automated ML in Azure Portal
+## Prerequisites
 
 - If an environment is provided to you. Use the workspace named: `quick-starts-ws-XXXXX`, where `XXXXX` is your unique identifier.
 

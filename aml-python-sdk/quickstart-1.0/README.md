@@ -1,4 +1,5 @@
-# Verify the pre-deployed resources
+# 1.0 Setting up your environment
+## Verify the pre-deployed resources
 1. Login to Azure portal using the provided credentials and navigate through the resource groups that you have access to. You can find a Virtual Machine in one resource group and an Azure Machine Learning Service workspace in the other resource group.
 
 ## Open the starting Python file

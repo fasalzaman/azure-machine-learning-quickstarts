@@ -194,6 +194,6 @@ In the current experiment, the pipeline of `MaxAbsScaler, RandomForest` gave us 
 
   <img src="./images/013_DeleteCompute.png" width="70%" height="70%">
 
-# Exercise 9: Proceed to Part 2
+### Now proceed to Part 2
 
-- [Automated ML with Azure ML Python SDK](../../quickstart-1.3#part-2-automated-ml-with-azure-ml-python-sdk)
+

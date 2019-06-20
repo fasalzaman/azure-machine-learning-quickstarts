@@ -1,3 +1,5 @@
+
+# Part 2: Automated ML with Azure ML Python SDK
 ## Before you begin
 
 Confirm that you have completed quickstart: [quickstart-1.0](../../quickstart-1.0) for Visual Studio Code before you begin.

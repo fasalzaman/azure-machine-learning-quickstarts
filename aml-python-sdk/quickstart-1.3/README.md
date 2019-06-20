@@ -1,4 +1,5 @@
-# Technology overview
+# 1.3 Automated Machine Learning
+## Technology overview
 
 ## Automated Machine Learning with Azure Machine Learning
 Automated machine learning picks an algorithm and hyperparameters for you and generates a model ready for deployment. There are several options that you can use to configure automated machine learning experiments.
@@ -20,7 +21,7 @@ This quickstart is divided into two parts. In the first part, you learn how to c
 
 In this quickstart we will be building a regression model to predict Taxi Fares in New York City. We will use a preprocessed labeled training data with features such as number of passengers, trip distance, datetime, holiday information and weather information.
 
-Please complete Part 1 before Part 2 specified in next pages.
+Please complete Part 1 and Part 2 specified in next pages.
 
 
 

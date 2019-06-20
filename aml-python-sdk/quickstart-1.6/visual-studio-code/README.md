@@ -1,4 +1,5 @@
-# Technology overview
+# 1.6 Model Interpretability with Azure Machine Learning
+## Technology overview
 
 ## Model interpretability with Azure Machine Learning service
 Machine learning interpretability is important in two phases of machine learning development cycle:

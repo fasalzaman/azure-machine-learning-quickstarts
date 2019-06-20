@@ -6,13 +6,13 @@ The Quickstarts are grouped into two parts: (1) Quickstarts for [Azure Machine L
 
 ## 1. Azure Machine Learning Python SDK
 
-The following set of quickstarts demonstrate a key set of Azure Machine Learning Services and provides instructions for you to preform them using a Python environment of your choice - Azure Notebooks or Visual Studio Code.
+The following set of quickstarts demonstrate a key set of Azure Machine Learning Services and provides instructions for you to preform them using a Python environment of Visual Studio Code.
 
 The following quickstarts are available:
 
 ### 1.0 [Setting up your environment](./aml-python-sdk/quickstart-1.0/README.md)
 
-If a lab environment has not be provided for you, this provides the instructions to get started in your own Azure Subscription.
+This provides the instructions to get started with the lab.
 
 ### 1.1 [Azure Machine Learning Pipelines](./aml-python-sdk/quickstart-1.1/README.md)
 
@@ -44,7 +44,7 @@ Azure Machine Learning Visual Interface gives you a cloud-based interactive, vis
 
 ### 2.0 [Setting up your environment](./aml-visual-interface/quickstart-2.0/README.md)
 
-If a lab environment has not be provided for you, this provides the instructions to get started in your own Azure Subscription.
+This provides the instructions to get started with the lab.
 
 ### 2.1 [Azure Machine Learning Visual Interface](./aml-visual-interface/quickstart-2.1/README.md)
 

@@ -19,10 +19,11 @@ You can create and run automated machine learning experiments in code using the 
 # Quickstart Overview
 This quickstart is divided into two parts.
 
-In the first part, you learn how to create, run, and explore automated machine learning experiments in the Azure portal without a single line of code. Next, from within the Azure portal, you will register the best trained model, create the deployment image, and deploy a scoring web service on Azure Container Instance (ACI) to make predictions using the registered model.
+* In the first part, you learn how to create, run, and explore automated machine learning experiments in the Azure portal without a single line of code. Next, from within the Azure portal, you will register the best trained model, create the deployment image, and deploy a scoring web service on Azure Container Instance (ACI) to make predictions using the registered model.
 
-In the second part, you will access the deployed webservice using the Azure ML Python SDK and then test the scoring web service:</br> (1) by make direct calls on service object,</br>
-(2) by calling the service end point (Scoring URI) over http.
+* In the second part, you will access the deployed webservice using the Azure ML Python SDK and then test the scoring web service:     
+    * by make direct calls on service object,</br>
+    * by calling the service end point (Scoring URI) over http.
 
 In this quickstart we will be building a regression model to predict Taxi Fares in New York City. We will use a preprocessed labeled training data with features such as number of passengers, trip distance, datetime, holiday information and weather information.
 

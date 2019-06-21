@@ -2,27 +2,27 @@
 
 ## Contents
 
-- [Exercise 1: Setup New Project in Azure DevOps](#Exercise-1-Setup-New-Project-in-Azure-DevOps)
+- Exercise 1: Setup New Project in Azure DevOps
 
-- [Exercise 2: Setup and Run the CI Build Pipeline](#Exercise-2-Setup-and-Run-the-CI-Build-Pipeline)
+- Exercise 2: Setup and Run the CI Build Pipeline
 
-- [Exercise 3: Setup the Release Pipeline](#Exercise-3-Setup-the-Release-Pipeline)
+- Exercise 3: Setup the Release Pipeline
 
-- [Exercise 4: Test Build and Release Pipelines](#Exercise-4-Test-Build-and-Release-Pipelines)
+- Exercise 4: Test Build and Release Pipelines
 
-- [Exercise 5: Challenge – Add a New Task to Release Pipeline](#Exercise-5-Challenge--Add-a-New-Task-to-Release-Pipeline)
+- Exercise 5: Challenge – Add a New Task to Release Pipeline
 
 
 # Exercise 1: Setup New Project in Azure DevOps
 
 ## Task 1: Create New Project
 
-1. Sign in to Azure DevOps
+1. Sign in to [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/)
 2. Select **Create project**
 
     ![Create new project in Azure DevOPs](images/01.png)
 
-3. Provide Project Name: `mlops-quickstart` and select **Create**
+3. Provide Project Name: **`mlops-quickstart`** and select **Create**
 
     ![Provide Project Name](images/02.png)
 
@@ -42,8 +42,8 @@
 
 ## Task 3: Update the build YAML file
 
-1. Select and open the `azure-pipelines.yml` file
-2. Select **Edit** and update the following variables: `resourcegroup`, `workspace` and `location`. If you are using your own Azure subscription, please provide names to use. If an environment is provided to you be sure to replace XXXXX in the values below with your unique identifier and update the `location` variable.
+1. Select and **open** the **`azure-pipelines.yml`** file
+2. Select **Edit** and update the following variables: **`resourcegroup`, `workspace`** and **`location`**. If you are using your own Azure subscription, please provide names to use. If an environment is provided to you be sure to replace XXXXX in the values below with your unique identifier and update the `location` variable.
 
     ![Open build YAML file](images/05.png)
 

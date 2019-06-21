@@ -1,17 +1,15 @@
 # Part 1: Automated ML in Azure Portal
 ## Prerequisites
 
-- If an environment is provided to you. Use the workspace named: `quick-starts-ws-XXXXX`, where `XXXXX` is your unique identifier.
+- Create an Azure Machine Learning service workspace named: `quick-starts-ws`. See [Create an Azure Machine Learning Service Workspace](https://docs.microsoft.com/en-us/azure/machine-learning/service/setup-create-workspace) for details on how to create the workspace.
 
-- If you are using your own Azure subscription. Create an Azure Machine Learning service workspace named: `quick-starts-ws`. See [Create an Azure Machine Learning Service Workspace](https://docs.microsoft.com/en-us/azure/machine-learning/service/setup-create-workspace) for details on how to create the workspace.
-
-- Download the training data file [nyc-taxi-sample-data.csv](https://quickstartsws9073123377.blob.core.windows.net/azureml-blobstore-0d1c4218-a5f9-418b-bf55-902b65277b85/quickstarts/nyc-taxi-data/nyc-taxi-sample-data.csv) on your local disk.
+- Download the training data file [nyc-taxi-sample-data.csv](https://quickstartsws9073123377.blob.core.windows.net/azureml-blobstore-0d1c4218-a5f9-418b-bf55-902b65277b85/quickstarts/nyc-taxi-data/nyc-taxi-sample-data.csv) on your virtual machine.
 
 # Exercise 1: Setup New Automated Machine Learning Experiment
 
 ## Task 1: Create New Automated Machine Learning Experiment
 
-1. In Azure Portal, open the machine learning workspace: `quick-starts-ws-XXXXX` or `quick-starts-ws`
+1. In Azure Portal, open the machine learning workspace: `quick-starts-ws`
 2. Select `Automated machine learning` in the left navigation bar
 3. Select **Create Experiment** from the content section
 4. This will open a `Create a new automated machine learning experiment` page
@@ -44,7 +42,7 @@
 ## Task 1: Upload Training Data
 
 - Select **Upload**
-- Upload `nyc-taxi-sample-data.csv` from your local disk
+- Upload `nyc-taxi-sample-data.csv` from your virtual machine disk
 
   <img src="./images/05_UploadDataFile.png" width="70%" height="70%" title="Upload training data">
 
@@ -130,8 +128,8 @@ Note that deployment process consists of four steps: (1) *Register Best Model*, 
 
 ## Step 2: Download the Script Files
 
-1. Select **Download Scoring Script** link. This will download `scoring.py` file to your local disk.
-2. Select **Download Environment Script** link. This will download `condaEnv.yml` file to your local disk.
+1. Select **Download Scoring Script** link. This will download `scoring.py` file to your virtual machine
+2. Select **Download Environment Script** link. This will download `condaEnv.yml` file to your virtual machine.
 
 <img src="./images/016_DownloadScripts.png" width="70%" height="70%" title="Download the Script Files">
 

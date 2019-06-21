@@ -25,7 +25,7 @@ Confirm that you have completed quickstart: quickstart-1.0 for Visual Studio Cod
 ### Open the starting Python file
 1. Start Visual Studio Code and open the folder: **`05-aml-onnx`**
 2. From within Visual Studio Code click on the starting python file: **`onnx-AML.py`**
-3. Confirm that you have setup **`azure_automl`** as your **interpreter.
+3. Confirm that you have setup **`azure_automl`** as your **interpreter**.
 4. **`onnx-AML.py`** is the Python file you will step thru executing in this quickstart.
 5. To execute each step click on **`Run Cell`** just above the block of code.
 

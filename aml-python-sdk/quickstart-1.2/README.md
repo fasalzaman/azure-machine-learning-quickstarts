@@ -41,4 +41,4 @@ The build pipeline will consists of the following key tasks:
 
 - Sign in to [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) using the same sign in as your [Azure subscription](https://azure.microsoft.com/en-us/).
 
-- Follow instructions specified in the next page.
+- Follow instructions specified in the next page to complete this quickstart.

@@ -1,3 +1,4 @@
+# Part 2
 ## Before you begin
 
 Confirm that you have completed quickstart: [quickstart-1.0](../../quickstart-1.0/azure-notebooks-setup) for Azure Notebooks before you begin.

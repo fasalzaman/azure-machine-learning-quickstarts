@@ -1,4 +1,4 @@
-# Technology overview
+# 1.4 Deep Learning with Azure Machine Learning
 
 ## Deep Learning with Azure Machine Learning service
 Using the [Azure Machine Learning SDK for Python](https://docs.microsoft.com/python/api/overview/azure/ml/intro?view=azure-ml-py) and the [Data Prep SDK](https://docs.microsoft.com/python/api/overview/azure/dataprep/intro?view=azure-dataprep-py) for Azure Machine Learning as well as open-source Python packages, you can build and train highly accurate machine learning and deep-learning models yourself in an Azure Machine Learning service Workspace. You can choose from many machine learning components available in open-source Python packages, such as the following examples:
@@ -40,7 +40,7 @@ The challenge with classifying text data is that deep learning models only under
 
 ## Before you begin
 
-Confirm that you have completed quickstart: [quickstart-1.0](../../quickstart-1.0/azure-notebooks-setup) for Azure Notebooks before you begin.
+Confirm that you have completed quickstart: quickstart-1.0 for Azure Notebooks before you begin.
 
 ## Open Notebook for this Quickstart
 1. Within Azure Notebooks navigate to `aml-python-sdk->starter-artifacts->python-notebooks->04-aml-deep-learning`. 

@@ -1,4 +1,4 @@
-# Technology overview
+# 1.5 Creating ONNX models with Azure Machine Learning
 
 ## Interoperability with ONNX
 The [Open Neural Network Exchange](https://onnx.ai/) (ONNX) format is an open standard for representing machine learning models. ONNX is supported by a [community of partners](https://onnx.ai/supported-tools), including Microsoft, who create compatible frameworks and tools. Microsoft is committed to open and interoperable AI so that data scientists and developers can:
@@ -19,11 +19,11 @@ In this quickstart, you will take a previously trained deep learning model to cl
 
 ## Before you begin
 
-Confirm that you have completed quickstart: [quickstart-1.0](../../quickstart-1.0/azure-notebooks-setup) for Azure Notebooks before you begin.
+Confirm that you have completed quickstart: quickstart-1.0 for Azure Notebooks before you begin.
 
 ## Open Notebook for this Quickstart
-1. Within Azure Notebooks navigate to `aml-python-sdk->starter-artifacts->python-notebooks->05-aml-onnx`. 
-2. Open `onnx-AML.ipynb`. This is the Python notebook you will step thru executing in this quickstart.
+1. Within Azure Notebooks navigate to **`aml-python-sdk->starter-artifacts->python-notebooks->05-aml-onnx`**. 
+2. Open **`onnx-AML.ipynb`**. This is the Python notebook you will step thru executing in this quickstart.
 
 ### Follow the instructions within the notebook to complete the quickstart
 

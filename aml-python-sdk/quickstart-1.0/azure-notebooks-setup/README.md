@@ -1,4 +1,4 @@
-# Setting up your environment 
+# 1.0 Setting up your environment 
 
 # Quickstart: Azure Notebooks Setup
 

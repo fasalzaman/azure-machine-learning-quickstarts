@@ -1,4 +1,7 @@
-# Azure Notebooks Setup
+# Setting up your environment 
+
+# Quickstart: Azure Notebooks Setup
+
 
 At a high level, here are the setup tasks you will need to perform to prepare your Azure Notebooks Environment (the detailed instructions follow):
 
@@ -46,3 +49,5 @@ At a high level, here are the setup tasks you will need to perform to prepare yo
 2. Open notebook: **00-aml-setup/00-aml-setup.ipynb**
 
 3. Run each cell in the notebook to install the required libraries.
+
+Once the setup is done, you can then follow the steps as outlined for each of other quickstarts.

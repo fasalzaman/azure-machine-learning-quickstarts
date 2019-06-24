@@ -1,4 +1,4 @@
-# Technology overview
+# 1.1 Azure Machine Learning Pipelines
 
 ## What are machine learning pipelines?
 Using [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/?view=azure-ml-py), data scientists, data engineers, and IT professionals can collaborate on the steps involved in:
@@ -30,10 +30,10 @@ The pipelines will be run on the Azure Machine Learning compute.
 
 ## Before you begin
 
-Confirm that you have completed quickstart: [quickstart-1.0](../../quickstart-1.0/azure-notebooks-setup) for Azure Notebooks before you begin.
+Confirm that you have completed quickstart: quickstart-1.0 for Azure Notebooks before you begin.
 
 ## Open Notebook for this Quickstart
-1. Within Azure Notebooks navigate to `aml-python-sdk->starter-artifacts->python-notebooks->01-aml-pipelines`. 
-2. Open `pipelines-AML.ipynb`. This is the Python notebook you will step thru executing in this lab.
+1. Within Azure Notebooks navigate to **`aml-python-sdk->starter-artifacts->python-notebooks->01-aml-pipelines`**. 
+2. Open **`pipelines-AML.ipynb`**. This is the Python notebook you will step thru executing in this lab.
 
 ### Follow the instructions within the notebook to complete the lab

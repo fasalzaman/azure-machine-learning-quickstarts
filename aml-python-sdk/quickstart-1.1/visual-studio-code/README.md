@@ -1,7 +1,7 @@
 # Quickstart 1.1 
 # Azure Machine Learning Pipelines
 ## What are machine learning pipelines?
-Using [Azure Machine Learning SDK for Python](https://docs.microsoft.com/en-us/python/api/azureml-pipeline-core/?view=azure-ml-py), data scientists, data engineers, and IT professionals can collaborate on the steps involved in:
+Using Azure Machine Learning SDK for Python, data scientists, data engineers, and IT professionals can collaborate on the steps involved in:
 * Data preparation, such as normalizations and transformations
 * Model training
 * Model evaluation
@@ -14,7 +14,7 @@ The following diagram shows an example pipeline:
 # Quickstart Overview
 The goal of this quickstart is to build a pipeline that demonstrate the basic data science workflow of data preparation, model training, and predictions. Azure Machine Learning, allows you to define distinct steps and make it possible to rerun only the steps you need as you tweak and test your workflow.
 
-In this quickstart, we will be using a subset of NYC Taxi & Limousine Commission - green taxi trip records available from [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/). The data is enriched with holiday and weather data. The goal is to train a regression model to predict taxi fares in New York City based on input features such as, number of passengers, trip distance, datetime, holiday information and weather information.
+In this quickstart, we will be using a subset of NYC Taxi & Limousine Commission - green taxi trip records available from Azure Open Datasets. The data is enriched with holiday and weather data. The goal is to train a regression model to predict taxi fares in New York City based on input features such as, number of passengers, trip distance, datetime, holiday information and weather information.
 
 The machine learning pipeline in this quickstart is organized into three steps:
 

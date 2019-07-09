@@ -1,7 +1,5 @@
 # Quickstart 1.3 
-# Automated Machine Learning
-
-## Automated Machine Learning with Azure Machine Learning
+# Automated Machine Learning with Azure Machine Learning
 Automated machine learning picks an algorithm and hyperparameters for you and generates a model ready for deployment. There are several options that you can use to configure automated machine learning experiments.
 
 Configuration options available in automated machine learning:

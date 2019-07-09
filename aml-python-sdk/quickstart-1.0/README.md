@@ -1,4 +1,5 @@
-# 1.0 Setting up your environment
+# Quickstart-1.0 
+# Setting up your environment
 ## Verify the pre-deployed resources
 1. **Login** to [Azure portal](https://portal.azure.com) using the credentials provided in the environment details page.
 2. Opens the resource group that you have access to.

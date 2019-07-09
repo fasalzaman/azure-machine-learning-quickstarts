@@ -1,10 +1,8 @@
 # Quickstart-1.0 
 # Setting up your environment
-## Verify the pre-deployed resources
 1. **Login** to [Azure portal](https://portal.azure.com) using the credentials provided in the environment details page.
-2. Opens the resource group that you have access to.
-3. You can find a **Virtual Machine** in one resource group and an empty resource group.
-
+2. Open the resource group that you have access to.
+3. You can find a **Virtual Machine** in the resource group.
 ## Open the starting Python file
 
 1. On your virtal machine, **open** the **Lab-Files** folder from the desktop and navigate to **azure-machine-learning-quickstarts-master>aml-python-sdk>starter-artifacts>00-aml-setup>visual-studio-code>00-aml-setup** folder.

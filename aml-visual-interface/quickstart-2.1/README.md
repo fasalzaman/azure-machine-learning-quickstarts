@@ -10,7 +10,7 @@ In this quickstart, we will be using a subset of NYC Taxi & Limousine Commission
 
 ## Task 1: Open Visual Interface
 
-1. Login to [Azure Portal](https://portal.azure.com). Navigate to the machine learning workspace: `quick-starts-ws`
+1. Login to [Azure Portal](https://portal.azure.com). Navigate to the pre-created machine learning workspace: `quick-starts-ws`
 2. Select `Visual interface` in the left navigation bar
 3. Select on **Launch visual interface**
 

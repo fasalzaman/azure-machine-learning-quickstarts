@@ -7,6 +7,13 @@
 
 1. On your virtal machine, **open** the **Lab-Files** folder from the desktop and navigate to **azure-machine-learning-quickstarts-master>aml-python-sdk>starter-artifacts>00-aml-setup>visual-studio-code>00-aml-setup** folder.
 2. **Open Visual Studio Code** by double clicking the starting python file: **`00-aml-setup.py`**.
-3. Setup **azure_automl** as your **interpreter** : In VS code, when you first open the starting python file for a quickstart,use **Select Interpreter** command from the **Command Palette** (⇧⌘P) and select the **azure_automl** as your interpreter (You may have to install Python extension in visual studio code and reload before this).
-4. To execute each step, **click** on **Run Cell** just above the block of code.
-5. Follow the instructions within the python file to complete the quickstart.
+3. Install Python extension in vs code and reload.</br></br>
+<kbd>![](images/python.jpg)</kbd></br></br>
+4. Setup **azure_automl** as your **interpreter** : In VS code, when you first open the starting python file for a quickstart,click on view button. Select **Command Palette** (⇧⌘P).</br></br>
+<kbd>![](images/view.jpg)</kbd></br></br>
+5. Select **Select Interpreter** command and select the **azure_automl** as your interpreter. </br></br>
+<kbd>![](images/select.jpg)</kbd></br></br>
+<kbd>![](images/automl.jpg)</kbd></br></br>
+6. After this, to execute each step, **click** on **Run Cell** just above the block of code.</br></br>
+<kbd>![](images/run.jpg)</kbd></br></br>
+7. Follow the instructions within the python file to complete the quickstart.

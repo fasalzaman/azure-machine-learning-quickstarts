@@ -1,14 +1,15 @@
 # 2.1 Azure Machine Learning Visual Interface
+In this quickstart, we will be using a subset of NYC Taxi & Limousine Commission - green taxi trip records available from [Azure Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/). The data is enriched with holiday and weather data. Based on the enriched dataset, we will learn to use the Azure Machine Learning Graphical Interface to process data, build, train, score, and evaluate a regression model to predict NYC taxi fares. To train the model, we will create Azure Machine Learning Compute resource. We will also learn to deploy the model as a scoring webservice to Azure Kubernetes Compute. Finally, we will test the deployed webservice, and review how to consume the deployed web service. We will do all of this from the Azure Machine Learning Visual Interface without writing a single line of code.
+
 ## Before you begin
 
 - Download the training data file [nyc-taxi-sample-data.csv](https://quickstartsws9073123377.blob.core.windows.net/azureml-blobstore-0d1c4218-a5f9-418b-bf55-902b65277b85/quickstarts/nyc-taxi-data/nyc-taxi-sample-data.csv) on your local disk.
-- Confirm that you have setup the prerequisites from: [quickstart-2.0](../quickstart-2.0)
 
 # Exercise 1: Upload Training Dataset in Visual Interface
 
 ## Task 1: Open Visual Interface
 
-1. Navigate to the machine learning workspace: `quick-starts-ws`
+1. Login to [Azure Portal](https://portal.azure.com)Navigate to the machine learning workspace: `quick-starts-ws`
 2. Select `Visual interface` in the left navigation bar
 3. Select on **Launch visual interface**
 

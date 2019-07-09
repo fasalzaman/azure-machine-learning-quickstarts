@@ -1,7 +1,5 @@
-# 1.6 Model Interpretability with Azure Machine Learning
-## Technology overview
-
-## Model interpretability with Azure Machine Learning service
+# Quickstart 1.6
+# Model Interpretability with Azure Machine Learning
 Machine learning interpretability is important in two phases of machine learning development cycle:
 
 * During training: Model designers and evaluators require interpretability tools to explain the output of a model to stakeholders to build trust. They also need insights into the model so that they can debug the model and make decisions on whether the behavior matches their objectives. Finally, they need to ensure that the model is not biased.

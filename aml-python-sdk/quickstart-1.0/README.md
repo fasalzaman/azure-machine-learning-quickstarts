@@ -9,7 +9,7 @@
 2. **Open Visual Studio Code** by double clicking the starting python file: **`00-aml-setup.py`**.
 3. Install Python extension in vs code and reload.</br></br>
 <kbd>![](images/python.jpg)</kbd></br></br>
-4. Setup **azure_automl** as your **interpreter** : In VS code, when you first open the starting python file for a quickstart,click on view button. Select **Command Palette** (⇧⌘P).</br></br>
+4. Setup **azure_automl** as your **interpreter** : In VS code, when you first open the starting python file for a quickstart,click on view button. Select **Command Palette**.</br></br>
 <kbd>![](images/view.jpg)</kbd></br></br>
 5. Select **Select Interpreter** command and select the **azure_automl** as your interpreter. </br></br>
 <kbd>![](images/select.jpg)</kbd></br></br>

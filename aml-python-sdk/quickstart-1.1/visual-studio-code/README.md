@@ -1,4 +1,5 @@
-# 1.1 Azure Machine Learning Pipelines
+# Quickstart 1.1 
+# Azure Machine Learning Pipelines
 ## Technology overview
 
 ## What are machine learning pipelines?

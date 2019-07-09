@@ -1,4 +1,5 @@
-# 1.3 Automated Machine Learning
+# Quickstart 1.3 
+# Automated Machine Learning
 ## Technology overview
 
 ## Automated Machine Learning with Azure Machine Learning

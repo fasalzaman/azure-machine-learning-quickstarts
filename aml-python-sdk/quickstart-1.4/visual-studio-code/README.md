@@ -1,4 +1,5 @@
-# 1.4 Deep Learning with Azure Machine Learning
+# Quickstart 1.4 
+# Deep Learning with Azure Machine Learning
 ## Technology overview
 
 ## Deep Learning with Azure Machine Learning service
